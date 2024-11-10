@@ -1,0 +1,47 @@
+*{
+    margin: 0 auto;
+    color: rgb(255, 255, 255);
+}
+
+header {
+    background-color: #fc0000;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+    font-size: 50px;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    background-color: #ff6600;
+}
+
+a {
+    color: #fff;
+    font-size: 32px;
+    margin: 10px;
+}
+
+main {
+    background-color: #00ff1a;
+    padding: 10px;
+}
+
+footer {
+    text-align: center;
+    font-size: 48px;
+    background-color: rgb(141, 0, 180);
+}
+
+article {
+    background-color: #0d00ff;
+    padding: 35px;
+    margin: 15px;
+    font-size: 24px;
+}
+
+
+
